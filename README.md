@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @minhthanhdang
 - 👀 I’m interested in developing quality applications
 - 🌱 I’m currently learning software engineering and machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m currently working on Hackathons and an Opensource project
+- 📫 Here's my [Linkedin](www.linkedin.com/in/mtddev)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
