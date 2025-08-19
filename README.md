@@ -4,7 +4,6 @@
 - 🏁 Build fast.
 - 🤖 AI enthusiast.
 - 📫 Here's my [Linkedin](www.linkedin.com/in/mtddev)
-- 😄 Pronouns: He/Him
 
 <!---
 minhthanhdang/minhthanhdang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
